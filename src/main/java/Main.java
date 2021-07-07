@@ -4,6 +4,7 @@ public class Main {
 
         System.out.println("Hello World!!!");
         System.out.println("Gałąź junior_feature!!!");
+        System.out.println("Gałąź junior_feature_v1!!!");
 
     }
 
