@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Gałąź junior_feature_v1!!!");
         System.out.println("Gałąź master!!!");
         System.out.println("Gałąź junior_feature_v2!!!");
+        System.out.println("Gałąź new_branch!!!");
 
     }
 
